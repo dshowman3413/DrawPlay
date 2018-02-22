@@ -11,7 +11,7 @@ public class Cat {
 	private static final int EYE_X = HEAD_DIMENSION/9;
 	private static final int EYE_SEPARATION = HEAD_DIMENSION/5;
 	// pick eye dimensions
-	private static final int EYE_HEIGHT = 20;
+	private static final int EYE_HEIGHT = 200;
 	private static final int EYE_WIDTH = 100;
 	// pick mouth height, width is based on head dimension
 	private static final int MOUTH_HEIGHT = 10;
